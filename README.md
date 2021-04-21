@@ -1,13 +1,13 @@
 CommodityBoomsAndBusts
 
-Replication files for "Commodity booms and busts in emerging economies"
+Replication files for "Commodity booms and busts in emerging economies", Journal of International Economics
 
 Paper available at:
 https://www.sciencedirect.com/science/article/pii/S0022199617301630
 
 Please cite as follows:
 Drechsel, T. and S. Tenreyro (2018). Commodity booms and busts in emerging economies. 
-Journal of International Economics 112, 200ñ218.
+Journal of International Economics 112, 200-218.
 
 Overview: 
 
